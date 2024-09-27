@@ -1,4 +1,4 @@
-# HeartDisease
+# Identify those with Heart Disease
 
 ### Support Vector Machine (SVM)
 Support Vector Machine, also known as SVM, is an effective classification program that is utilizes a hyperplane, a line or plane, to split data into two different class labels. The support vectors, data points close that anchor and position the hyperplane, are used to help calculate the marginal lines. 
